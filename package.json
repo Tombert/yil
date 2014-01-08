@@ -1,0 +1,28 @@
+{
+  "name": "yil",
+  "version": "0.0.1",
+  "description": "A library to write synchronous code more easily. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tombert256/yil.git"
+  },
+  "keywords": [
+    "yil",
+    "yield",
+    "tombert",
+    "synchronous",
+    "javascript",
+    "js",
+    "ecmascript"
+  ],
+  "author": "Thomas Gebert",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/tombert256/yil/issues"
+  },
+  "homepage": "https://github.com/tombert256/yil"
+}
