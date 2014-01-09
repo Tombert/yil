@@ -34,3 +34,8 @@ var myYieldFunction = function(){
     var thing = yield yil.callback(myAsyncFunction, arg1, arg2); 
 }
 ```
+
+If you need to specify a specific scope, write it like this: 
+```
+var thing = yield yil.callback({scope:this, func: myAsyncFunction}, arg1, arg2);
+```
