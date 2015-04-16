@@ -10,7 +10,7 @@ You just learned about the ```yield``` keyword in ECMAScript 6, you want to
 play it, but drat, you're stuck with a library that depends on the last
 argument being a callback.  What a drag.  
 
-Yil helps skirt this by creating an easy wrapper to write synchrnous code. 
+Yil helps skirt this by creating an easy wrapper to write synchronous code. 
 
 Requirements
 ============
